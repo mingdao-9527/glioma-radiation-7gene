@@ -2,7 +2,7 @@
 
 Code accompanying: *A radiation-response-gene-derived 7-gene score refines molecular prognostic
 stratification of diffuse glioma across eight cohorts but does not predict radiotherapy benefit:
-an integrative multi-omics and randomised-cohort analysis* (Guo J, Qu L, Wang Z, Zhang G, Zhang G; Department of
+an integrative multi-omics and randomised-cohort analysis* (Guo J, Qu L, Zhang G, Wang Z, Zhang G; Department of
 Radiation Oncology and Center for Neurodegenerative Diseases, the Second People's Hospital of Liaocheng,
 Liaocheng, Shandong, China).
 
