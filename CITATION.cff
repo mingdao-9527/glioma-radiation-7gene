@@ -4,9 +4,19 @@ title: Radiation-response 7-gene score in diffuse glioma - analysis code
 authors:
   - family-names: Guo
     given-names: Jintao
+    affiliation: "Department of Radiation Oncology, the Second People's Hospital of Liaocheng"
   - family-names: Qu
     given-names: Lei
     orcid: https://orcid.org/0009-0004-7061-2851
+    affiliation: "Department of Radiation Oncology, the Second People's Hospital of Liaocheng"
+  - family-names: Wang
+    given-names: Zheng
+    affiliation: "Center for Neurodegenerative Diseases, the Second People's Hospital of Liaocheng"
+  - family-names: Zhang
+    given-names: Guifeng
+    affiliation: "Center for Neurodegenerative Diseases, the Second People's Hospital of Liaocheng"
   - family-names: Zhang
     given-names: Guihua
+    affiliation: "Department of Radiation Oncology, the Second People's Hospital of Liaocheng"
 license: MIT
+repository-code: https://github.com/mingdao-9527/glioma-radiation-7gene
