@@ -1,0 +1,23 @@
+name: glioma-rt-7gene
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - lifelines
+  - scikit-survival
+  - gseapy
+  - matplotlib
+  - openpyxl
+  - r-base>=4.4
+  - r-survival
+  - r-rms
+  - r-ridge
+  - bioconductor-preprocesscore
+  - bioconductor-impute
+  - bioconductor-go.db
+  # WGCNA: install.packages('WGCNA') from CRAN inside R
+  # oncoPredict: CALCPHENOTYPE.R is sourced directly (scripts/)
